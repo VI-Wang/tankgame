@@ -1,3 +1,1 @@
-Git is a distributed version control software;
-Git is a free software distributed under the GPL;
-Today is Monday.
+This is the tank game first stage.
